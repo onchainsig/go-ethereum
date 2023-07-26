@@ -1,5 +1,18 @@
 ## Go Ethereum
 
+这个是 go-ethereum release/1.12 版本，以这个版本为基础来深入理解以太坊的设计与实现。
+
+Ethereum 作为通用型 Public Chain 中的翘楚构建了稳定强大的生态系统。Ethereum 及其生态吸引到了一大批世界上最优秀的
+工程师和研究人员不断的将新思想，新理念，新技术引入到 Ethereum 及其生态中，并且持续的引领整个 Blockchain 生态系统发展。
+
+1. 关于以太坊细节实现的文档资料相对较少。
+2. 目前的 Blockchain 系统并没有像数据库系统那样统一的形成系统性的方法论；而 Ethereum 从来都是被参考的对象。
+3. 要想说自己懂区块链，不能深入理解 Ethereum 就纯属扯淡。 
+
+学习的成果维护在 [OKR](OKR) 目录中。
+
+---
+
 Official Golang execution layer implementation of the Ethereum protocol.
 
 [![API Reference](
