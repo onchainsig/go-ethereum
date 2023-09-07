@@ -21,4 +21,5 @@ Next steps:
     - [go-ethereum-code-analysis english version](https://github.com/agiletechvn/go-ethereum-code-analysis)
     - [深入理解以太坊](https://gist.github.com/stonegao/16b8a30d98c4723f04f8259b7eda5da8)
     - [以太坊设计与实现](https://learnblockchain.cn/books/geth/)
+    - [用Go来做以太坊开发](https://goethereumbook.org/zh/)
 - [go-ethereum docs](https://geth.ethereum.org/docs)
