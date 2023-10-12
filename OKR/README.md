@@ -9,6 +9,7 @@
 Next steps:
 
 1. 学习 Layer 2
+2. Bitcoin 系, Solana, Cosmos, Aptos, Sui 等
 
 ## 资源
 
