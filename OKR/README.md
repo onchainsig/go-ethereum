@@ -23,3 +23,7 @@ Next steps:
     - [以太坊设计与实现](https://learnblockchain.cn/books/geth/)
     - [用Go来做以太坊开发](https://goethereumbook.org/zh/)
 - [go-ethereum docs](https://geth.ethereum.org/docs)
+
+### Books
+
+- [精通以太坊](https://www.8btc.com/book/657056)
