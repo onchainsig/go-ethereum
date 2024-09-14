@@ -24,6 +24,9 @@ Next steps:
     - [以太坊设计与实现](https://learnblockchain.cn/books/geth/)
     - [用Go来做以太坊开发](https://goethereumbook.org/zh/)
 - [go-ethereum docs](https://geth.ethereum.org/docs)
+- 解析 Ethereum 内部实现的文章和博客
+  - [Ethereum-tutorial](https://github.com/Billy1900/Ethereum-tutorial)
+  - [以太坊的状态存储](https://www.zlog.in/post/state-in-ethereum/)
 
 ### Books
 
